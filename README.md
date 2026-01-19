@@ -29,6 +29,8 @@
 | Category                    | Website                                                                                   | Github repo                                                                         |
 | --------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | AI4Chemical-Engineering     | [AI4Chemical-Engineering](https://yuzehao2023.github.io/daily-arxiv-ai4cheme/)            | [daily-arxiv-ai4cheme](https://github.com/YuzeHao2023/daily-arxiv-ai4cheme)         |
+| AI4Polymer                  | [AI4Polymer](https://yuzehao2023.github.io/daily-arxiv-ai4polymer/)                       | [daily-arxiv-ai4polymer](https://github.com/YuzeHao2023/daily-arxiv-ai4polymer)     |
+
 
 <div align="right">
     <b><a href="#Table-of-contents">↥ back to top</a></b>
