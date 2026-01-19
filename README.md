@@ -5,13 +5,13 @@
 
 # Table of Content
 
- - [Science](#Science)
- - [Engineering](#Engineering)
- - [Social Science](#Social-Science)
+ - [Science](##Science)
+ - [Engineering](##Engineering)
+ - [Social Science](##Social-Science)
 
 # Category
 
-# Science
+## Science
 
 | Category    | Website                                                                  | Github repo                                                                       |
 | ----------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
@@ -20,6 +20,6 @@
 | AI4math     | [AI4math](https://yuzehao2023.github.io/daily-arxiv-ai4math/)            | [daily-arxiv-ai4math](https://github.com/YuzeHao2023/daily-arxiv-ai4math)         |
 | AI4Physics  | [AI4Physics](https://yuzehao2023.github.io/daily-arxiv-ai4physics/)      | [daily-arxiv-ai4physics](https://github.com/YuzeHao2023/daily-arxiv-ai4physics)   |
 
-# Engineering
+## Engineering
 
-# Social Science
+## Social Science
