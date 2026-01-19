@@ -26,7 +26,9 @@
 
 # Engineering
 
-coming soon!
+| Category                    | Website                                                                                   | Github repo                                                                         |
+| --------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| AI4Chemical-Engineering     | [AI4Chemical-Engineering](https://yuzehao2023.github.io/daily-arxiv-ai4cheme/)            | [daily-arxiv-ai4cheme](https://github.com/YuzeHao2023/daily-arxiv-ai4cheme)         |
 
 <div align="right">
     <b><a href="#Table-of-contents">↥ back to top</a></b>
