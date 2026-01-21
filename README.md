@@ -19,6 +19,7 @@
 | AI4Bio      | [AI4Bio](https://yuzehao2023.github.io/daily-arxiv-ai4bio/)              | [daily-arxiv-ai4bio](https://github.com/YuzeHao2023/daily-arxiv-ai4bio)           |
 | AI4math     | [AI4math](https://yuzehao2023.github.io/daily-arxiv-ai4math/)            | [daily-arxiv-ai4math](https://github.com/YuzeHao2023/daily-arxiv-ai4math)         |
 | AI4Physics  | [AI4Physics](https://yuzehao2023.github.io/daily-arxiv-ai4physics/)      | [daily-arxiv-ai4physics](https://github.com/YuzeHao2023/daily-arxiv-ai4physics)   |
+| AI4Geology  | [AI4Geology](https://yuzehao2023.github.io/daily-arxiv-ai4geo/)          | [daily-arxiv-ai4geo](https://github.com/YuzeHao2023/daily-arxiv-ai4geo)           |
 
 <div align="right">
     <b><a href="#Table-of-contents">↥ back to top</a></b>
